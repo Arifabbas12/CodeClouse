@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#amazon{
+    font-weight: 700;
+    margin-left: 45%;
+}
+#div{
+    margin: 2px auto;
+    border-radius: 7px;
+    border: 1px solid lightgray ;
+    width: 25%;
+    font-size: 17px;
+    padding-left: 18px;
+    margin-top: 28px;
+}
+
+#btn{
+    border-radius: 8px;
+    height: 30px;
+    background-color: #FFD814;;
+    width: 80%;
+}
+.div1{
+    text-decoration: none;
+}
+#email{
+    margin-bottom: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 80%;
+    height: 30px;
+}
+#Emp{
+    margin-bottom:1px;
+    font-weight: 700;
+}
+#work{
+    font-weight: 700;
+    margin-bottom: 2px;
+}
+#create{
+    margin-left: 575px;
+    align-items: center;
+    color: black;
+    background-color: white;
+    width: 25%;
+    height: 40px;
+    border-radius: 3px;
+}
